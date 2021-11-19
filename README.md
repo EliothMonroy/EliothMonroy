@@ -5,4 +5,5 @@
 
 [![Elioth's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliothMonroy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Elioth's wakatime languages stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliothMonroy)](https://github.com/anuraghazra/github-readme-stats)
+### My programming languages stats for last week
+[![Elioth's wakatime languages stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliothMonroy&hide_title=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
